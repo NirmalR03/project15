@@ -1,0 +1,28 @@
+div{
+    background-image:linear-gradient(red,yellow,indigo);
+    padding-bottom: 40px;
+    margin-left:350px;
+    margin-right: 350px;
+}
+h1{
+    color:purple;
+    margin-bottom: 60px;
+    padding-top: 20px;
+}
+.c1{
+    background-image:linear-gradient(rgb(37, 225, 249), white);
+    color:red;
+    margin-left: 65px;
+    margin-right: 65px ;
+    margin-bottom: 35px;
+    padding: 20px;
+}
+
+.c2{
+    background-image:linear-gradient(orange,white);
+    color:red;
+    margin-bottom: 50px;
+    margin-left: 65px;
+    margin-right: 65px;
+    padding: 20px;
+}
